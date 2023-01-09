@@ -291,7 +291,6 @@ header, h1, h2, img, div, p {
 }
 
 .footer__columns {
-  border: 1px solid red;
   margin: auto;
   margin-top: 60px;
   margin-bottom: 40px;
@@ -305,7 +304,6 @@ header, h1, h2, img, div, p {
 }
 
 .footer__column_content_copyright {
-  border: 1px solid red;
   flex-basis: 711px;
   margin: 0;
   list-style: none;
